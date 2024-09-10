@@ -1,0 +1,525 @@
+nohup: ignoring input
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:25<00:25, 25.42s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:33<00:00, 14.93s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:33<00:00, 16.50s/it]
+WARNING:root:Some parameters are on the meta device device because they were offloaded to the cpu.
+--layer--
+6
+--layer--
+7
+--layer--
+8
+--layer--
+9
+--layer--
+10
+--layer--
+11
+--layer--
+12
+--layer--
+13
+--layer--
+14
+--sample-num--
+0
+all-proba
+[0. 1.]
+y_proba_mail
+0.0
+0.0
+0.0
+--sample-num--
+1
+all-proba
+[1.0000000e+00 9.1831714e-23]
+y_proba_mail
+1.0
+0.0
+1.0
+--sample-num--
+2
+all-proba
+[0. 1.]
+y_proba_mail
+0.0
+0.0
+0.0
+--sample-num--
+3
+all-proba
+[0. 1.]
+y_proba_mail
+0.0
+0.0
+0.0
+--sample-num--
+4
+all-proba
+[1. 0.]
+y_proba_mail
+1.0
+0.0
+1.0
+--sample-num--
+5
+all-proba
+[0. 1.]
+y_proba_mail
+0.0
+0.0
+0.0
+--sample-num--
+6
+all-proba
+[1.0000000e+00 2.0179447e-23]
+y_proba_mail
+1.0
+0.0
+1.0
+--sample-num--
+0
+all-proba
+[0. 1.]
+y_proba_mail
+0.0
+0.0
+0.0
+--sample-num--
+1
+all-proba
+[1.0000000e+00 1.6202712e-15]
+y_proba_mail
+1.0
+1.0
+2.0
+--sample-num--
+2
+all-proba
+[0. 1.]
+y_proba_mail
+0.0
+0.0
+0.0
+--sample-num--
+3
+all-proba
+[0. 1.]
+y_proba_mail
+0.0
+0.0
+0.0
+--sample-num--
+4
+all-proba
+[1. 0.]
+y_proba_mail
+1.0
+1.0
+2.0
+--sample-num--
+5
+all-proba
+[0. 1.]
+y_proba_mail
+0.0
+0.0
+0.0
+--sample-num--
+6
+all-proba
+[1. 0.]
+y_proba_mail
+1.0
+1.0
+2.0
+--sample-num--
+0
+all-proba
+[0. 1.]
+y_proba_mail
+0.0
+0.0
+0.0
+--sample-num--
+1
+all-proba
+[9.999908e-01 9.200041e-06]
+y_proba_mail
+0.9999908
+2.0
+2.9999908208847046
+--sample-num--
+2
+all-proba
+[0. 1.]
+y_proba_mail
+0.0
+0.0
+0.0
+--sample-num--
+3
+all-proba
+[0. 1.]
+y_proba_mail
+0.0
+0.0
+0.0
+--sample-num--
+4
+all-proba
+[1. 0.]
+y_proba_mail
+1.0
+2.0
+3.0
+--sample-num--
+5
+all-proba
+[0. 1.]
+y_proba_mail
+0.0
+0.0
+0.0
+--sample-num--
+6
+all-proba
+[1. 0.]
+y_proba_mail
+1.0
+2.0
+3.0
+--sample-num--
+0
+all-proba
+[0. 1.]
+y_proba_mail
+0.0
+0.0
+0.0
+--sample-num--
+1
+all-proba
+[1.000000e+00 8.584751e-35]
+y_proba_mail
+1.0
+2.9999908208847046
+3.9999908208847046
+--sample-num--
+2
+all-proba
+[0. 1.]
+y_proba_mail
+0.0
+0.0
+0.0
+--sample-num--
+3
+all-proba
+[0. 1.]
+y_proba_mail
+0.0
+0.0
+0.0
+--sample-num--
+4
+all-proba
+[1. 0.]
+y_proba_mail
+1.0
+3.0
+4.0
+--sample-num--
+5
+all-proba
+[0. 1.]
+y_proba_mail
+0.0
+0.0
+0.0
+--sample-num--
+6
+all-proba
+[1. 0.]
+y_proba_mail
+1.0
+3.0
+4.0
+--sample-num--
+0
+all-proba
+[0. 1.]
+y_proba_mail
+0.0
+0.0
+0.0
+--sample-num--
+1
+all-proba
+[1.0000000e+00 5.3646953e-16]
+y_proba_mail
+1.0
+3.9999908208847046
+4.999990820884705
+--sample-num--
+2
+all-proba
+[0. 1.]
+y_proba_mail
+0.0
+0.0
+0.0
+--sample-num--
+3
+all-proba
+[0. 1.]
+y_proba_mail
+0.0
+0.0
+0.0
+--sample-num--
+4
+all-proba
+[1. 0.]
+y_proba_mail
+1.0
+4.0
+5.0
+--sample-num--
+5
+all-proba
+[0. 1.]
+y_proba_mail
+0.0
+0.0
+0.0
+--sample-num--
+6
+all-proba
+[1. 0.]
+y_proba_mail
+1.0
+4.0
+5.0
+--sample-num--
+0
+all-proba
+[0. 1.]
+y_proba_mail
+0.0
+0.0
+0.0
+--sample-num--
+1
+all-proba
+[1.0000000e+00 8.3437057e-19]
+y_proba_mail
+1.0
+4.999990820884705
+5.999990820884705
+--sample-num--
+2
+all-proba
+[0. 1.]
+y_proba_mail
+0.0
+0.0
+0.0
+--sample-num--
+3
+all-proba
+[0. 1.]
+y_proba_mail
+0.0
+0.0
+0.0
+--sample-num--
+4
+all-proba
+[1. 0.]
+y_proba_mail
+1.0
+5.0
+6.0
+--sample-num--
+5
+all-proba
+[0. 1.]
+y_proba_mail
+0.0
+0.0
+0.0
+--sample-num--
+6
+all-proba
+[1. 0.]
+y_proba_mail
+1.0
+5.0
+6.0
+--sample-num--
+0
+all-proba
+[0. 1.]
+y_proba_mail
+0.0
+0.0
+0.0
+--sample-num--
+1
+all-proba
+[1.000000e+00 2.112544e-25]
+y_proba_mail
+1.0
+5.999990820884705
+6.999990820884705
+--sample-num--
+2
+all-proba
+[0. 1.]
+y_proba_mail
+0.0
+0.0
+0.0
+--sample-num--
+3
+all-proba
+[0. 1.]
+y_proba_mail
+0.0
+0.0
+0.0
+--sample-num--
+4
+all-proba
+[1. 0.]
+y_proba_mail
+1.0
+6.0
+7.0
+--sample-num--
+5
+all-proba
+[0. 1.]
+y_proba_mail
+0.0
+0.0
+0.0
+--sample-num--
+6
+all-proba
+[1. 0.]
+y_proba_mail
+1.0
+6.0
+7.0
+--sample-num--
+0
+all-proba
+[0. 1.]
+y_proba_mail
+0.0
+0.0
+0.0
+--sample-num--
+1
+all-proba
+[1.000000e+00 6.233267e-19]
+y_proba_mail
+1.0
+6.999990820884705
+7.999990820884705
+--sample-num--
+2
+all-proba
+[0. 1.]
+y_proba_mail
+0.0
+0.0
+0.0
+--sample-num--
+3
+all-proba
+[0. 1.]
+y_proba_mail
+0.0
+0.0
+0.0
+--sample-num--
+4
+all-proba
+[1. 0.]
+y_proba_mail
+1.0
+7.0
+8.0
+--sample-num--
+5
+all-proba
+[0. 1.]
+y_proba_mail
+0.0
+0.0
+0.0
+--sample-num--
+6
+all-proba
+[1. 0.]
+y_proba_mail
+1.0
+7.0
+8.0
+--sample-num--
+0
+all-proba
+[0. 1.]
+y_proba_mail
+0.0
+0.0
+0.0
+--sample-num--
+1
+all-proba
+[1.0000000e+00 1.4836848e-20]
+y_proba_mail
+1.0
+7.999990820884705
+8.999990820884705
+--sample-num--
+2
+all-proba
+[0. 1.]
+y_proba_mail
+0.0
+0.0
+0.0
+--sample-num--
+3
+all-proba
+[0. 1.]
+y_proba_mail
+0.0
+0.0
+0.0
+--sample-num--
+4
+all-proba
+[1. 0.]
+y_proba_mail
+1.0
+8.0
+9.0
+--sample-num--
+5
+all-proba
+[0. 1.]
+y_proba_mail
+0.0
+0.0
+0.0
+--sample-num--
+6
+all-proba
+[1. 0.]
+y_proba_mail
+1.0
+8.0
+9.0
